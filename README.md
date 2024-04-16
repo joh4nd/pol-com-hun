@@ -1,9 +1,17 @@
 # Readme
 
+TODO:
+- address problems (below)
+- setup working comment bot e.g. https://github.com/redianmarku/YouTube-Bot, https://github.com/redianmarku/YT-Comment-Bot
+- pipe msgs to google translate for English <-> Hungarian translation
+- setup youtube searcher to find political content of interest
+- employ models to learn from content (audio and commentary)
+- use generative models taught in political psychology to make balanced responses such as raising questions, effectively breaking orthodoxy
+
 __Problems__
 
 - how has the distribution of political views evolved in the Hungarian population?
-- can the distribution in public commentary on social media and online media platforms change or be changed?
+- can the distribution in public commentary on social media and online media platforms be changed by intervention?
 
 __Background__
 
